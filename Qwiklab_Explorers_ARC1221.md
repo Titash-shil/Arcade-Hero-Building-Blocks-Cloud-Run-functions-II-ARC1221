@@ -10,11 +10,11 @@
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Dataplex-Qwik-Start---Command-Line-GSP1144/refs/heads/main/qwiklab_explorers_gsp1144.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Arcade-Hero-Building-Blocks-Cloud-Run-functions-II-ARC1221/refs/heads/main/qwiklab_explorers_ARC1221.sh
 
-sudo chmod +x qwiklab_explorers_gsp1144.sh
+sudo chmod +x qwiklab_explorers_ARC1221.sh
 
-./qwiklab_explorers_gsp1144.sh
+./qwiklab_explorers_ARC1221.sh
 ```
 
 ---
